@@ -1,0 +1,29 @@
+
+body {
+  background-color:white;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+h3 {
+font-family:arial;
+font-size:16px;
+}
+
+li {
+	font-family:georgia,garamond;
+font-size:18px;
+text-align:left;
+}
+
+p {
+  font-family: georgia,garamond;
+  font-size: 18px;
+
+}
+
+
+
